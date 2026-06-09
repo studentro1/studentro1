@@ -2,14 +2,6 @@
 
 Business Analytics & Management student at Seattle University interested in analytics, AI systems, business operations, and strategic decision-making.
 
-## About Me
-
-* NCAA Division I Student Athlete
-* Business Analytics + Management double major
-* Interested in AI evaluation, business intelligence, and data storytelling
-* Building technical skills in R, SQL, Tableau, Python, and analytics workflows
-* Interested in consulting, strategy, and AI-adjacent business roles
-
 ## Technical Skills
 
 * R Studio
@@ -19,7 +11,15 @@ Business Analytics & Management student at Seattle University interested in anal
 * Excel
 * Data Visualization
 * Data Cleaning
-* Business Analytics
+
+## About Me
+
+* NCAA Division I Student Athlete
+* Business Analytics + Management double major
+* Interested in AI evaluation, business intelligence, and data storytelling
+* Interested in consulting, strategy, and AI-adjacent business roles
+* Building technical skills in R, SQL, Tableau, Python, and analytics workflows
+
 
 ## Experience
 
@@ -41,14 +41,10 @@ Business Analytics & Management student at Seattle University interested in anal
 * Analyzed purchasing trends and geographic market behavior
 * Identified high-growth product categories and premium customer segments
 
-## Athletics & Performance
+## Athletics & Hobbies
 
-Division I athlete with a systems-oriented mindset focused on:
-
-* measurable improvement
-* adaptability
-* discipline
-* performance analytics
+Division I student athlete interested in performance metrics, measurable improvement, and systems-oriented training.
+Outside of academics, I enjoy boxing, dance, and learning to code!
 
 ## Connect With Me
 
