@@ -1,13 +1,10 @@
 # Hi there, I'm Royidah 👋
 
 Business Analytics & Management student at Seattle University interested in analytics, AI systems, business operations, and strategic decision-making.
----
+
 # Core Skills
 
-* R Studio
-* SQL
-* Tableau
-* Python
+* R Studio, SQL, Tableau, Python
 * Excel
 * Data Visualization
 * Data Cleaning
