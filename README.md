@@ -20,19 +20,6 @@ Business Analytics & Management student at Seattle University interested in anal
 * Interested in consulting, strategy, and AI-adjacent business roles
 * Building technical skills in R, SQL, Tableau, Python, and analytics workflows
 
-
-## Experience
-
-### Handshake AI Fellow
-
-* Analyze AI model outputs to identify inconsistencies and improvement opportunities
-* Support model evaluation through structured analytical reasoning
-
-### Business Development & Customer Advocacy
-
-* Contributed to partnership revenue growth through relationship management and strategic communication
-* Helped translate customer feedback into actionable business insights
-
 ## Projects
 
 ### Consumer Purchasing Behavior Analysis
