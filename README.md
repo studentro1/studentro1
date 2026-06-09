@@ -1,8 +1,8 @@
-## Hi, I'm Royidah 👋
+# Hi there, I'm Royidah 👋
 
 Business Analytics & Management student at Seattle University interested in analytics, AI systems, business operations, and strategic decision-making.
-
-## Technical Skills
+---
+# Core Skills
 
 * R Studio
 * SQL
@@ -14,7 +14,6 @@ Business Analytics & Management student at Seattle University interested in anal
 
 ## About Me
 
-* NCAA Division I Student Athlete
 * Business Analytics + Management double major
 * Interested in AI evaluation, business intelligence, and data storytelling
 * Interested in consulting, strategy, and AI-adjacent business roles
